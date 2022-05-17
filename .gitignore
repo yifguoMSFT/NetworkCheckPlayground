@@ -1,0 +1,4 @@
+/.vs
+/SimpleHttpServer/appsettings.Development.json
+/SimpleHttpServer/bin
+/SimpleHttpServer/obj
